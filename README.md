@@ -2,14 +2,14 @@
 Simple node express app to demonstrate Dockerizing applications, automating quality checks, building images and probably deployment with Github actions.
 
 ### Technologies Used:
--- NodeJS
--- Express
--- Docker
--- AWS
+- NodeJS
+- Express
+- Docker
+- AWS
 
 ### Dependencies
--- >= Node 18
--- Docker
+- Node 18.x.x
+- Docker
 
 ### To run locally on Port 3000
 ```
